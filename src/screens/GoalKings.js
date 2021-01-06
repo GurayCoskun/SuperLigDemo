@@ -12,7 +12,7 @@ class DetailScreen extends Component {
             <View style={styles.ContainerNavBar}>
               <View style={styles.NavBar}>
                 <View style={{width:'80%'}}>
-                    <Text style={styles.TextStyle}>Takım</Text>
+                    <Text style={styles.TextStyle}>Futbolcu</Text>
                 </View>
                 <View style={{width:'20%'}}>
                     <View style={styles.statistic}>

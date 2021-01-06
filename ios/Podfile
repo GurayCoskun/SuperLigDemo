@@ -10,6 +10,8 @@ target 'projectone' do
 
   pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
 
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
   target 'projectoneTests' do
     inherit! :complete
     # Pods for testing
