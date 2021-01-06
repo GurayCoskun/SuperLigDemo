@@ -25,7 +25,7 @@ class ReadData extends Component {
         axios.get(url,{
         headers : {
             'content-type': "application/json",
-            'authorization': "apikey 7Gj60JcX7lWOKYzR0AgVL0:6c59frvLeHML5jDDdgeip6"
+            'authorization': "apikey 2QqcxhMChIbIHDcYBtU3s0:1Qqqtf2kiWa4JNjQ1MX1Z7"
             }
         }).then(res => (res.data.result))
         .then(res =>{
