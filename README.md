@@ -16,7 +16,7 @@ or <br>
 $ yarn add @react-navigation/drawer
 
 # IOS
-![iosSuperLig](https://user-images.githubusercontent.com/47599340/103774328-715bc980-503d-11eb-9912-b52c02cc0c7d.jpg)
+![iosSuperLigDemo](https://user-images.githubusercontent.com/47599340/103804814-ba267900-5063-11eb-95bf-02de0f1d64b6.jpg)
 
 # Android
-![androidSuperLig](https://user-images.githubusercontent.com/47599340/103774382-820c3f80-503d-11eb-960e-542ec8efe450.jpg)
+![androidSuperLigDemo](https://user-images.githubusercontent.com/47599340/103804790-b2ff6b00-5063-11eb-8a7c-090f3b88538b.jpg)
